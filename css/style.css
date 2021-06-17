@@ -231,3 +231,11 @@ display: none;
     display: flex;
     flex-direction: column;
 }
+
+.buttons a{
+    color: white;
+    text-decoration: none;
+}
+.buttons a:hover{
+    color: crimson;
+}
